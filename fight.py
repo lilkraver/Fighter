@@ -61,7 +61,7 @@ for i in res_h:
     combo_h.append(y) #пилим из них список
 
 h_series = pd.Series(combo_h)
-h_series.to_excel('fight_h.xlsx') #версия excel нормальная должна быть, иначе закодированное говно
+h_series.to_excel('fight_h.xlsx') #версия excel нормальная должна быть, иначе закодировано
 
 
 combo_l = []
