@@ -1,4 +1,4 @@
-import pandas as pd  #pip openpyxl
+import pandas as pd  #pip install openpyxl
 from itertools import product
 from FailPairs import failpairs
 hands = [
